@@ -1,0 +1,9 @@
+#+TITLE: Index
+#+AUTHOR: Vlead
+
+* Numerics
+** [[./introduction-E1079/introduction-E1079.org][Introduction]]
+** [[./blog-E1079/blog-E1079.org][Blog]]
+** [[./method-E1079/method-E1079.org][Method]]
+** [[./test-E1079/test-E1079.org][TEST]]
+** [[./simulation-E1079/simulation-E1079.org][Simulation]]
